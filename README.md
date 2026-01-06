@@ -5,7 +5,7 @@ The system captures strokes via a webcam, processes only green pixels, and recog
 
 
 ## Sample Output
-! [Image](https://github.com/user-attachments/assets/d743167e-935d-4665-af47-cf9c362b7e5d)
+! [Image] (https://github.com/user-attachments/assets/d743167e-935d-4665-af47-cf9c362b7e5d)
 
 ---
 
