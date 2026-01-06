@@ -3,6 +3,10 @@
 An **AI-powered Air Writing Recognition System** that allows users to write characters in the air using a **green-colored pointer/object**.  
 The system captures strokes via a webcam, processes only green pixels, and recognizes handwritten characters using a **custom-trained CNN model**.
 
+
+## Sample Output
+![Image]=(https://github.com/user-attachments/assets/d743167e-935d-4665-af47-cf9c362b7e5d)
+
 ---
 
 ## 📌 Features
