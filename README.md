@@ -1,4 +1,4 @@
-#  Air Writing Recognition System (Green Brush Based)
+#  Air Writing Recognition System (Green Brush Based)!!
 
 An **AI-powered Air Writing Recognition System** that allows users to write characters in the air using a **green-colored pointer/object**.  
 The system captures strokes via a webcam, processes only green pixels, and recognizes handwritten characters using a **custom-trained CNN model**.
